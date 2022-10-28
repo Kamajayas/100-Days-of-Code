@@ -6,3 +6,4 @@ city = input('where did you grow up?\n')
 pet = input ('what is your favorite pet?\n')
 #Combine the name of their city and pet and show them their band name.
 print ('Your band name should be ' + city +" "+ pet)
+print ("Thanks!")
